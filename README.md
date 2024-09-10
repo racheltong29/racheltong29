@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 - 🔭 I’m currently working on ML research
 - 🌱 I’m currently learning different ML algorithms
 - 👯 I’m looking to collaborate on various hackathons
